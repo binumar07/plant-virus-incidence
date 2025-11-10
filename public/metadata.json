@@ -1,0 +1,5 @@
+{
+  "name": "Plant Disease Incidence Calculator",
+  "description": "A tool to calculate plant disease incidence based on stand and severity measurements by Bin Umar.",
+  "requestFramePermissions": []
+}
